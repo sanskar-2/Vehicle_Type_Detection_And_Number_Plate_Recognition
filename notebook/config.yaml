@@ -1,0 +1,6 @@
+vehicle_model: "model/number_plate_&_object_detection/yolov8x.pt"
+speed_model: "model/number_plate_&_object_detection/yolov8x.pt"
+tesseract_path: "D:\\cdac_PRJ\\Vehicle-Number-Plate-Recognition-and-Speed-Measurement-System-main\\notebook"
+input_video: "img_and_videos\\vehicles.mp4"
+output_video: "output/output_result.mp4"
+

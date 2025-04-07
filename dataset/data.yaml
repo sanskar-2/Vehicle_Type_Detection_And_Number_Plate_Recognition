@@ -1,0 +1,6 @@
+train: /content/vnprsm/vnprsm/data/train/images
+val: /content/vnprsm/vnprsm/data/valid/images
+test: /content/vnprsm/vnprsm/data/test/images
+
+nc: 7
+names: ['number_plate','car','auto','bus','truck','tractor','bike']
